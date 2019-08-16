@@ -10,7 +10,7 @@
             string[] amendments = new string[10];
 
             Console.WriteLine();
-            Console.WriteLine("                                     String Console Application!!!!");
+            Console.WriteLine("                                     String Console Application");
             Console.WriteLine("                                     --------------------------");
             Console.WriteLine("                                     --------------------------");
             Console.WriteLine("                                     --------------------------");
