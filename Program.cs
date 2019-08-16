@@ -13,6 +13,7 @@
             Console.WriteLine("                                     String Console Application");
             Console.WriteLine("                                     --------------------------");
             Console.WriteLine("                                     --------------------------");
+            Console.WriteLine("                                     --------------------------");
 
             Console.WriteLine();
             Console.WriteLine();
